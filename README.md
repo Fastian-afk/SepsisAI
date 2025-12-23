@@ -1,8 +1,3 @@
-Below is **one single, polished, recruiter-grade README** you can paste **directly** into your **SepsisPredict (MIMIC-IV)** repo.
-This keeps it clinical, research-aligned, and visually clean — exactly how serious healthcare ML projects are expected to look.
-
----
-
 # 🧠 SepsisPredict — Early Sepsis Detection using MIMIC-IV
 **Clinical Machine Learning for Early Risk Stratification**
 
